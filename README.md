@@ -2,6 +2,17 @@
 <h3 align="left">I am a SRE Engineer and i love Software </h3>
 
 
+<p align="left">
+  <a href="https://github.com/imanabr77/imanabr77">
+    <img src="https://komarev.com/ghpvc/?username=imanabr77" alt="page views" />
+  </a>
+  <a href="https://github.com/imanabr77?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/imanabr77?color=green&logo=github">
+  </a>
+</p>
+
+
+
 # 💫 About Me:
 🏢  I'm currently working at Snapp<br>🌱   Golang  my main languages<br>💬  I like to talk about Open Source<br>
 
@@ -17,6 +28,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imanabr77&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=imanabr77&icon=2&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
