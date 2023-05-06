@@ -11,11 +11,11 @@
   </a>
 </p>
 
-
-
-# 💫 About Me:
 🏢  I'm currently working at Snapp  **[Snapp](https://snapp.ir/)** <br>🌱   Golang  my main languages<br>💬  I like to talk about Open Source<br>
 
+# 💫 About Me:
+
+Skilled Site Reliability and DevOps Engineering who is eager to learn new technologies, languages, and tools. With hands-on experience supporting, automating, and optimizing mission critical deployments based on the Linux platform, leveraging container orchestration tools,IaC, CI/CD, monitoring, logging, and agile methodologies.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/iman-abrehdari-13812001/) 
