@@ -15,7 +15,7 @@
 
 # 💫 About Me:
 
-Skilled Site Reliability and DevOps Engineering who is eager to learn new technologies, languages, and tools. With hands-on experience supporting, automating, and optimizing mission critical deployments based on the Linux platform, leveraging container orchestration tools,IaC, CI/CD, monitoring, logging, and agile methodologies.
+Interested and eager to learn.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/iman-abrehdari-13812001/) 
