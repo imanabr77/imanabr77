@@ -11,7 +11,7 @@
   </a>
 </p>
 
-🏢  I'm currently working at Snapp  **[Snapp](https://snapp.ir/)** <br>🌱   Golang  my main languages<br>💬  I like to talk about Open Source,observability,blockchain  <br>
+🏢  I'm currently working at Snapp  **[Snapp](https://snapp.ir/)** <br>🌱 I love Golang languages<br>💬  I like to talk about Open Source, observability,blockchain  <br>
 
 # 💫 About Me:
 
